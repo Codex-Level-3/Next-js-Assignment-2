@@ -19,7 +19,7 @@ This project includes the following components:
 ### Results
 
 Counter  
-![alt text](image-1.png)
+![alt text](image-1.png)  
 Form Submission  
 ![alt text](image.png)
 
