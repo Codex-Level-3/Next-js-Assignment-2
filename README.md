@@ -16,6 +16,13 @@ This project includes the following components:
 
 - UserForm.jsx : A form with a single text input for the user's name and a submit button. It implemented controlled component logic using the `useState` hook to manage input field state. An Alert displays the input value upon form submission.
 
+### Results
+
+Counter  
+![alt text](image-1.png)
+Form Submission  
+![alt text](image.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
